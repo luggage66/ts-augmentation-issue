@@ -1,0 +1,14 @@
+{
+  "name": "tstypes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Donald L Mull Jr <donald.mull@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.3.2"
+  },
+  "dependencies": {
+    "@types/knex": "^0.0.50",
+    "knex": "^0.13.0"
+  }
+}
